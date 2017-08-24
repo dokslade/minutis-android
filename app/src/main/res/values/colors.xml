@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Charte graphique Croix-rouge française -->
+    <color name="CRF_RougeIdentitaire">#E30613</color>
+    <color name="CRF_BleuFonce">#003956</color>
+    <!--<color name="CRF_GrisFonce">#667385</color>-->
+
+    <color name="colorPrimaryDark">#970000</color>
+    <color name="colorPrimary">@color/CRF_RougeIdentitaire</color>
+    <color name="colorAccent">@color/CRF_RougeIdentitaire</color>
+</resources>

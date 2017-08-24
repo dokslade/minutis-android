@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="actionBarStyle">@style/MinutisActionBarStyle</item>
+        <item name="android:actionBarStyle">@style/MinutisActionBarStyle</item>
+    </style>
+
+    <style name="MinutisActionBarStyle" parent="Widget.AppCompat.Light.ActionBar.Solid">
+        <item name="icon">@drawable/ic_actionbar_icon</item>
+        <item name="android:icon">@drawable/ic_actionbar_icon</item>
+        <item name="displayOptions">showHome|showTitle</item>
+        <item name="android:displayOptions">showHome|showTitle</item>
+    </style>
+</resources>

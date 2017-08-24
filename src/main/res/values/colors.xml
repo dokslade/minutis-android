@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-  <item name="primary" type="color">#CC3333</item>
-  <item name="primary_dark" type="color">#9B2727</item>
-  <item name="accent" type="color">#CC3333</item>
-  <item name="text_primary" type="color">#FFFFFF</item>
-  <item name="separator" type="color">#FFEBEE</item>
-</resources>

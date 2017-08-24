@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Minutis</string>
+    <string name="menu_settings">Paramètres</string>
+    <string name="pref_privacy">Confidentialité</string>
+    <string name="pref_geolocation_enabled">Activer le suivi GPS</string>
+    <string name="pref_connection">Connexion</string>
+    <string name="pref_local_server">Utiliser un serveur Minutis local</string>
+    <string name="crf">Croix-Rouge française</string>
+    <string name="menu_logout">Se déconnecter</string>
+    <string name="menu_contacts">Contacts</string>
+
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="dialog.logout.title">Deconnexion</string>
+    <string name="dialog.logout.message">Vous allez être déconnecté du serveur.\nLe suivi de votre position ne sera plus assuré et vous ne recevrez plus les notifications du serveur Minutis.\n\nÊtes-vous sûr ?</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Nom d\'utilisateur</string>
+    <string name="prompt_password">Mot de passe</string>
+    <string name="action_sign_in">Se connecter</string>
+    <string name="error_invalid_username">Nom d\'utilisateur invalide</string>
+    <string name="error_invalid_password">Mot de passe invalide</string>
+    <string name="login_failed">Erreur d\'authentification</string>
+</resources>

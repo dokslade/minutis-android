@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-  <string name="pref_notif_buzzer_title">Activer le vibreur</string>
-  <string name="pref_notif_sound_title">Activer la notification sonore</string>
-</resources>
